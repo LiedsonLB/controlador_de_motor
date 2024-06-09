@@ -19,7 +19,7 @@ Prof. Dr. José Vigno Moura Sousa (josevigno@prp.uespi.br)
 ## Integrantes
 Pedro Lucas de Sousa Oliveira (pedrolucasdesousaoliveira@aluno.uespi.br)
 <br />
-Francisco Liédson Bonfim Barros (fliedsonbbarros@alu.uespi.br)<br />
+Francisco Liédson Bonfim Barros (fliedsonbbarros@aluno.uespi.br)<br />
 Francisco Douglas Santos de Castro (fdsantosdec@aluno.uespi.br)<br />
 Kaio Simeão da Silva Rodrigues (ksdasilvar@aluno.uespi.br)
 <br />
